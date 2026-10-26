@@ -134,7 +134,7 @@ These plots illustrate how simple geometric and intensity features can separate 
 ![wafer_demo_zooms](wafer_demo_zooms.png)
 The largest defects are shown as close-up crops (raw image on top, residual on the bottom). Each crop is annotated with area, mean intensity, and eccentricity. Scratches appear long and thin; particles appear roughly circular.
 
-## Key Equations (Readable Form)
+## Key Equations
 
 | Step                    | Equation / Rule                                      |
 |-------------------------|------------------------------------------------------|
